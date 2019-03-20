@@ -1,0 +1,17 @@
+$ Intro [reprendre celle du rapport] (30s)
+  -Motivation
+  -Desc du challenge
+  -Desc des données
+
+$ Algo (1m30s)
+  -Préprocess
+  -Prédiction
+  -Visualisation
+
+
+$ Résultats (30s)
+  -Résultats
+
+$ Conclusion (30s)
+  -Performances
+  -Ameliorations possibles
